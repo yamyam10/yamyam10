@@ -1,4 +1,12 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=yamyam10&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<a href="https://github.com/yamyam10">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=yamyam10&count_private=true&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/yamyam10">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamyam10&layout=compact&theme=dracula" />
+</a>
+
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yamyam10&show_icons=true&theme=radical)-->
 <!--
 **yamyam10/yamyam10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
