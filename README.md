@@ -1,11 +1,13 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=yamyam10&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href="https://github.com/yamyam10">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=yamyam10&count_private=true&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/yamyam10">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamyam10&layout=compact&theme=dracula" />
-</a>
+<div align="center">
+  <a href="https://github.com/yamyam10" target="_blank">
+    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=yamyam10&count_private=true&show_icons=true&theme=radical" style="margin-right: 25px;" />
+  </a>
+  <a href="https://github.com/yamyam10" target="_blank">
+    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamyam10&layout=compact&theme=radical" />
+  </a>
+</div>
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yamyam10&show_icons=true&theme=radical)-->
 <!--
